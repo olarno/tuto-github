@@ -1,5 +1,7 @@
 # tuto-github
 
+## How to configure your git 
+
 ## How to start with git 
 
 ### From a fresh folder
@@ -39,6 +41,5 @@ run the following command *with ssh*
 ```
 git clone git@github.com:olarno/tuto-github.git
 ```
-
 
 
